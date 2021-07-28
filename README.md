@@ -4,7 +4,7 @@
 # usage
 
 
-global
+## global
 
 pnpm add -g tiged  
 
@@ -13,11 +13,11 @@ yarn add -g tiged
 npm install -g tiged
 
  
-local
+## local
 
 degit WilbertBocanegra/template-typescript-express-eslint-prisma 
 
-or 
+## or 
 
 pnpx degit WilbertBocanegra/template-typescript-express-eslint-prisma  myApp
 
