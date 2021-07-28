@@ -4,6 +4,8 @@
 # usage
 
 
+## git clone classic or 
+
 ## global
 
 ### tiged https://www.npmjs.com/package/tiged
