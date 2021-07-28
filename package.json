@@ -8,10 +8,6 @@
     "build": "tsc",
     "prettier": "prettier --write ./main.ts ./src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WilbertBocanegra/template-typescript-express-eslint-prisma.git"
-  },
   "keywords": [
     "express",
     "ts-node",
@@ -22,15 +18,11 @@
   ],
   "author": "Wilbert Bocanegra Velazquez",
   "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/WilbertBocanegra/template-typescript-express-eslint-prisma/issues"
-  },
-  "homepage": "https://github.com/WilbertBocanegra/template-typescript-express-eslint-prisma#readme",
+
   "dependencies": {
     "cli-color": "^2.0.0",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "dotenv-parse-variables": "^2.0.0",
     "express": "^4.17.1",
     "node-notifier": "^10.0.0"
   },
