@@ -1,9 +1,11 @@
 # template-typescript-express-eslint-prisma
 
 
-*pnpm install
-*yarn install
-*npm install
+pnpm install
+
+yarn install
+
+npm install
 
 
 
