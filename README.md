@@ -6,6 +6,8 @@
 
 ## global
 
+### tiged https://www.npmjs.com/package/tiged
+
 pnpm add -g tiged  
 
 yarn add -g tiged 
