@@ -11,7 +11,7 @@ if (env.error) {
 
 const config: IConfig = {
   PORT: Number(process.env.PORT),
-  HOST: String(process.env.HOST),
+  HOST: String(process.env.HOST)
 };
 
 export default config;
