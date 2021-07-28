@@ -14,5 +14,5 @@ app.use(express.json());
 app.use("/", ExampleRouter);
 
 app.listen(PORT, HOST, () => {
-  console.log(color.success(`>Listening on PORT ${config.PORT}`));
+  console.log(color.success(`> Listening on PORT ${config.PORT}`));
 });
