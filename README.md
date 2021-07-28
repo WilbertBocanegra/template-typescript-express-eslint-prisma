@@ -17,15 +17,11 @@ yarn add -g tiged
 npm install -g tiged
 
  
-## local
+## 
 
 degit WilbertBocanegra/template-typescript-express-eslint-prisma  myApp
 
-## or 
 
-pnpx degit WilbertBocanegra/template-typescript-express-eslint-prisma  myApp
-
-npx degit template-typescript-express-eslint-prisma  myApp
 
 ## install modules
 
